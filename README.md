@@ -17,3 +17,5 @@
 内部にZSFakeTouchを使用予定
 
 Kametti & u5kun
+
+Mitライセンス
